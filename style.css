@@ -1,0 +1,6 @@
+body{margin:0;font-family:Arial;background:#0c0f1a;color:#fff}
+nav{display:flex;justify-content:space-between;padding:20px}
+span{color:#a855f7}.hero{padding:90px}
+.btn{padding:14px 34px;background:linear-gradient(45deg,#a855f7,#ec4899);border-radius:30px;color:#fff;text-decoration:none}
+.card{background:#111827;padding:20px;border-radius:12px;margin:10px;width:280px}
+.whatsapp{position:fixed;right:20px;bottom:20px;font-size:28px}
